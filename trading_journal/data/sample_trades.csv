@@ -1,0 +1,3 @@
+id,date,symbol,quantity,price,side
+1,2023-01-01,AAPL,10,150.0,BUY
+2,2023-01-02,GOOG,5,2800.0,SELL
